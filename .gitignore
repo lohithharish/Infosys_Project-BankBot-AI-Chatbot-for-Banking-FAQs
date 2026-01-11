@@ -1,0 +1,98 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+pyvenv.cfg
+
+# =========================
+# Environment Variables / Secrets
+# =========================
+.env
+.env.*
+*.key
+*.pem
+
+# =========================
+# Databases
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# ML / AI Models (Large Files)
+# =========================
+models/
+*.gguf
+*.bin
+*.pt
+*.onnx
+*.pkl
+*.joblib
+
+# =========================
+# Experiments / Notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# Logs & Cache
+# =========================
+.cache/
+.cache/*
+logs/
+tmp/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Git Safety
+# =========================
+.gitignore
