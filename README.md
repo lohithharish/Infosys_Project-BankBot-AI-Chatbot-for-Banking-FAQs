@@ -181,6 +181,10 @@ You are free to use, modify, and distribute this project with proper attribution
 B.Tech – Computer Engineering (AI & ML)
 Infosys Certified Project
 
+<img width="505" height="356" alt="image" src="https://github.com/user-attachments/assets/56fc1dca-05d5-43cc-9263-ee9201102d2d" />
+
+
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
+
